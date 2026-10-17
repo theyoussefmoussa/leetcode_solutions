@@ -30,6 +30,7 @@ category/
 |---|-------|------------|----------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | arrays | [solution](arrays/0001.two_sum/solution.py) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | database | [solution](database/1378.replace_id_with_unique_identifier/solution.py) |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | database | [solution](database/1484-group-sold-products-by-the-date/solution.py) |
 
-**Total solved: 2**
+**Total solved: 3**
 <!-- INDEX:END -->
