@@ -14,7 +14,7 @@ the approach.
 
 ## Structure
 
-```
+```text
 category/
   NNNN-problem-slug/
     solution.py
@@ -28,7 +28,8 @@ category/
 <!-- INDEX:START -->
 | # | Title | Difficulty | Category | Solution |
 |---|-------|------------|----------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | arrays | [solution](arrays/0001-two-sum/solution.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | arrays | [solution](arrays/0001.two_sum/solution.py) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | database | [solution](database/1378.replace_id_with_unique_identifier/solution.py) |
 
-**Total solved: 1**
+**Total solved: 2**
 <!-- INDEX:END -->
