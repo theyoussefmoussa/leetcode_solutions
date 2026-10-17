@@ -30,6 +30,7 @@ category/
 |---|-------|------------|----------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | arrays | [solution](arrays/0001.two_sum/solution.py) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | database | [solution](database/1141.user_activity_for_the_past_30_days_i/solution.py) |
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | database | [solution](database/1164.product_price_at_a_given_date/solution.py) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | database | [solution](database/1378.replace_id_with_unique_identifier/solution.py) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | database | [solution](database/1484-group-sold-products-by-the-date/solution.py) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | database | [solution](database/1581_customers_who_visited_but_didnot_make_any_transaction/solution.py) |
